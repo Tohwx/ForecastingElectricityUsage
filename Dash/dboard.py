@@ -35,7 +35,7 @@ users.sort()
 
 user_focus = None
 
-models = ['ARIMA', 'Prophet', 'DeepAR']
+models = ['ARIMA', 'Prophet']
 
 
 @app.callback(
